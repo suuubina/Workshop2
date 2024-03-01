@@ -1,0 +1,14 @@
+Q1) torrent create Chaton.jpeg
+
+Q2) torrent create partition1
+  torrent create partition1 -o partition1.torrent
+  torrent info <file>.torrent
+
+Q3) differences : name of the directory and the hash
+
+Q1) QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
+
+Q2) The hash is different.
+
+Q3) ipfs get <CID>
+  The name and the hash are different.
